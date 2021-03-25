@@ -19,8 +19,7 @@
 	월별인력현황		월별 가동률을 피벗차트로 분석 한다.	단축키 :  Ctrl+Shift+E
 				
 				
-	Workflow			
-!(https://github.com/KimDaeHo26/Project-management/blob/main/img/1.JPG)
+ ![workflow](https://github.com/KimDaeHo26/Project-management/blob/main/img/1.JPG)
 				
 	
 			
